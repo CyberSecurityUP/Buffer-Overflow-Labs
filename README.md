@@ -83,3 +83,7 @@ https://github.com/FabioBaroni/awesome-exploit-development
 My ebooks with in-depth content: https://bit.ly/3g6jIXD
 
 https://www.google.com/search?q=exploit+db+buffer+overflow+window+s7&client=firefox-b-d&ei=uJ_JX-jrEfa55OUP26S2iAI&start=10&sa=N&ved=2ahUKEwjop4fLpLPtAhX2HLkGHVuSDSEQ8tMDegQIAxA8&biw=800&bih=486
+
+### Vulnerable Machines:
+
+https://mega.nz/folder/UuZmnbzR#9uZEkqKLsxFZPG0WzDZK5Q
